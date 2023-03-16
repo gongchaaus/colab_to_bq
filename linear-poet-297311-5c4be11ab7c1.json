@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linear-poet-297311",
+  "private_key_id": "5c4be11ab7c1001734a0fc3f999c194dfbaafdf9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjNasmTFn/npiW\nkLymWIo5ajs6l+KJ0IFwanYR8VH4Zp5Ss3U2QT5R5OPY+otzz3Ey7wk1XxgsuTCo\n+tFSWb3sdus8G+dxqYhnnpIgqxz7KBcG+xoQih0NlE+8kAq/z/bfSKfi+8LTdalr\nf2JTjBH1XOnrBVY5AZFp8wgqt9p7NsB0P4ot1Q9GUgOdvgowQBWkt9NodH4mFnZ1\nApn8CzvdpaYoFYC7P5rn0QotHLFdtr77vyxAd9E/48Sb1mOl9wMf725XCy0jKvGA\nm+Y/TaVwVMzQ1bQRTdf99QHm28Bb474RLXKlZoXxtnmo3ZEqTYR2yvMd6u9RXcRf\nIkwwdCyxAgMBAAECggEABfYZBPq428eV+lFW2ch16/a5Ehr9Ex+Y3dG1QlhCDdHn\ncoUJ3MAOegiW39EHCqVVM4BpDfDuSfIb8DsQdegr3wHpvxx+UJGhphJXhCrpKj/N\nht3cu7Vb+Mi85NYkqg6zS/10hjST0oeCR/NCKa4BpJ3o90UfE4TSg2SggLptLZFg\nBKkVwqXVNzYbmBfQGDD1+vAX9xZr49Wqlkn7Iwqs+9eAUYSlHmrFGvG61pV+/ea7\nSfSeKMxa/+MN8rbN0oCvaTuzHfponobeiM/TQlkFfEr8lILgnaehepX1hF9DgRLQ\nzYvwC07VDu8GCYRe0xWKvh6/je0/ly6L6rO2kPHHiQKBgQD9HilBnFcmUZXW6avV\n6eCGSODtvVlBjbMQ1SlJprAEBjw95mTsmzY89uR/gJ5Iv/AfvTHL2jZsZGSAkbwB\nqDfJMgGPgTKbkvumDToOhOToGdug3WDwHKrsrx2c4Ne6l1xgHrlteiK91s8VX7Oz\nPUWMNy3XY5jF+bZQ49oZM70kpQKBgQDly/wqruHBMsUi6/1VQFXbc6Y6R6vNkRWx\naUYoDtCbSn+kGoolpYZGPLqM3DwSNNs2s889M6JFVUX4qnv38VB41/PsIjfDX5O0\nm5nPqbFX+lII9uL+FrF9U9aPesVJrnJkqs5NfQTALMHg0Xo2JPSkG1zXJG16fh6K\nclRxHw4OHQKBgBWLHaPR9LD0PLagCNoaH9wOE+boONKVhuol2m/EWjLdfP8fvvNM\nep9RvD0F63LxszRgW/6nwf4TxWIUBVZ2xNjBAtT+ABqxte16LrjRotIGcWUNspR9\nPCcM+I5DrNjazSf5NXsV7CMQR2vgS2E0E9lNUP+GIJipGlVkL0n5111pAoGBAI/W\nlSsqeEj0PI1VZic8tAE/bKdCQXnU/N0l5jIgw9bQVQElU5+o8ll4ndSZ7kf/KdAd\n0PSgI0x+yeOS4zIZrKNXmWkPKhRy+QOt+iMQNt+44iyWTRN6pPKrzbvVvzQVq6jz\neVrrjFO2ME1HEdZeX3txXTWVqalo1DkYw15jb+rJAoGBAIelMIDn+dG9ojFgePLP\n8bPAP6uARNEVce9L1EUtJTtFpcRQ5k5k/gcwL1sRZhCFDkjyP1vif7XKeN7Sf1oV\nbhi0sCZBVeQ31oF5fpPh46wK9YuVm53pfc7Z9wCCUmtHsjbjp5Hey4WXhf+0shGk\npW/W/HiX+Xl3ynBdW0Y875cw\n-----END PRIVATE KEY-----\n",
+  "client_email": "colab-to-bq@linear-poet-297311.iam.gserviceaccount.com",
+  "client_id": "110521970265360451849",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colab-to-bq%40linear-poet-297311.iam.gserviceaccount.com"
+}
